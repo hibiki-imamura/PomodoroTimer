@@ -6,4 +6,4 @@ python3.11.7
 
 ## 動作方法
 
-1. python tomato.py
+1. python pomodoro.py
